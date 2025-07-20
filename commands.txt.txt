@@ -1,0 +1,4 @@
+git status
+git stage .
+git commit -m "<commit-message>"
+git push
